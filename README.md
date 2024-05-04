@@ -16,6 +16,10 @@ Hey there! Welcome to my LeetCode solved problems repository. Here, you'll find 
 
 6. [**Single Number**](hash/singleNumber.cpp)
 
+6. [**Two Sum**](hash/twoSum.cpp)
+
+6. [**Hash Map All Functions**](hash/hashMapAllFunctions.cpp)
+
 ## Contribution 🤝
 
 Feel free to contribute! If you've got some interesting solutions or problems to share, just fork this repository, make your changes, and submit a pull request. Let's solve problems together! 💪
